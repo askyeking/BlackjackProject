@@ -1,7 +1,7 @@
 # BlackjackProject
 
 
-```
+```java
 public class SomeClass {
 	private int x;
 
